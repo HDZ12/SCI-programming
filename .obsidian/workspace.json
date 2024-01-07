@@ -11,8 +11,12 @@
             "id": "359a08bd025557b3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Low-rank tensor completion via smooth matrix factorization/笔记.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4e0c0d9184a6d837",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Low-rank tensor completion via smooth matrix factorization/笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Low-rank tensor completion via smooth matrix factorization/笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Low-rank tensor completion via smooth matrix factorization/笔记.md"
+              }
             }
           }
         ]
@@ -139,5 +148,14 @@
     }
   },
   "active": "359a08bd025557b3",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Low-rank tensor completion via smooth matrix factorization/Low-rank tensor completion via smooth matrix factorization.pdf",
+    "Low-rank tensor completion via smooth matrix factorization/笔记.md",
+    "Tensor Completion for Estimating Missing Values in Visual Data/笔记.md",
+    "Tensor Completion for Estimating Missing Values in Visual Data/2013_TPAMI_Tensor Completion for Estimating Missing Values in Visual Data.pdf",
+    "Tensor Completion for Estimating Missing Values in Visual Data/code/testImg.png",
+    "Low-rank tensor completion via smooth matrix factorization",
+    "Tensor Completion for Estimating Missing Values in Visual Data/code/README.pdf",
+    "README.md"
+  ]
 }
