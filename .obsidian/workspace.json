@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4e0c0d9184a6d837",
@@ -133,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,16 +147,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "aa55a73fbaae9cbd",
+  "active": "359a08bd025557b3",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Low-rank tensor completion via smooth matrix factorization/笔记.md",
     "Low-rank tensor completion via smooth matrix factorization/Low-rank tensor completion via smooth matrix factorization.pdf",
+    "README.md",
+    "conflict-files-obsidian-git.md",
     "Tensor Completion for Estimating Missing Values in Visual Data/笔记.md",
     "Tensor Completion for Estimating Missing Values in Visual Data/2013_TPAMI_Tensor Completion for Estimating Missing Values in Visual Data.pdf",
     "Tensor Completion for Estimating Missing Values in Visual Data/code/testImg.png",
     "Low-rank tensor completion via smooth matrix factorization",
-    "Tensor Completion for Estimating Missing Values in Visual Data/code/README.pdf",
-    "README.md"
+    "Tensor Completion for Estimating Missing Values in Visual Data/code/README.pdf"
   ]
 }
