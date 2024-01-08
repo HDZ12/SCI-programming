@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4e0c0d9184a6d837",
@@ -134,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,7 +145,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "359a08bd025557b3",
+  "active": "aa55a73fbaae9cbd",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Low-rank tensor completion via smooth matrix factorization/笔记.md",
