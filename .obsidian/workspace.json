@@ -11,11 +11,9 @@
             "id": "359a08bd025557b3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "Factorization strategies for third-order tensors/Factorization strategies for third-order tensors.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Factorization strategies for third-order tensors/Factorization strategies for third-order tensors.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Factorization strategies for third-order tensors/Factorization strategies for third-order tensors.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Factorization strategies for third-order tensors/Factorization strategies for third-order tensors.pdf"
               }
             }
           }
@@ -149,11 +147,11 @@
   "active": "359a08bd025557b3",
   "lastOpenFiles": [
     "Framelet Representation of Tensor Nuclear Norm for Third-Order Tensor Completion/Framelet Representation of Tensor Nuclear Norm for Third-Order Tensor Completion.pdf",
+    "README.md",
     "Tensor Completion for Estimating Missing Values in Visual Data/笔记.md",
     "Low-rank tensor completion via smooth matrix factorization/Low-rank tensor completion via smooth matrix factorization.pdf",
     "Factorization strategies for third-order tensors/Factorization strategies for third-order tensors.pdf",
     "Low-rank tensor completion via smooth matrix factorization/笔记.md",
-    "README.md",
     "1704782553942.png",
     "1704783082994.png",
     "1704783060347.png",
