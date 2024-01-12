@@ -11,9 +11,11 @@
             "id": "359a08bd025557b3",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Factorization strategies for third-order tensors/Factorization strategies for third-order tensors.pdf"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factorization strategies for third-order tensors/Factorization strategies for third-order tensors.pdf",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factorization strategies for third-order tensors/Factorization strategies for third-order tensors.pdf",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factorization strategies for third-order tensors/Factorization strategies for third-order tensors.pdf"
+                "file": "README.md"
               }
             }
           }
@@ -146,6 +148,7 @@
   },
   "active": "359a08bd025557b3",
   "lastOpenFiles": [
+    "Factorization strategies for third-order tensors/Factorization strategies for third-order tensors.pdf",
     "Framelet Representation of Tensor Nuclear Norm for Third-Order Tensor Completion/Framelet Representation of Tensor Nuclear Norm for Third-Order Tensor Completion.pdf",
     "Low-rank tensor completion via smooth matrix factorization/Low-rank tensor completion via smooth matrix factorization.pdf",
     "1704782553942.png",
@@ -156,7 +159,6 @@
     "1704783088307.png",
     "1704783082994 1.png",
     "Framelet Representation of Tensor Nuclear Norm for Third-Order Tensor Completion",
-    "Factorization strategies for third-order tensors/Factorization strategies for third-order tensors.pdf",
     "Factorization strategies for third-order tensors",
     "conflict-files-obsidian-git.md",
     "Tensor Completion for Estimating Missing Values in Visual Data/笔记.md",
