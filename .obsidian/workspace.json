@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factorization strategies for third-order tensors/Factorization strategies for third-order tensors.md",
+                "file": "Low-Rank Tensor Function Representation for Multi-Dimensional Data Recovery/READEME.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factorization strategies for third-order tensors/Factorization strategies for third-order tensors.md",
+                "file": "Low-Rank Tensor Function Representation for Multi-Dimensional Data Recovery/READEME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factorization strategies for third-order tensors/Factorization strategies for third-order tensors.md",
+                "file": "Low-Rank Tensor Function Representation for Multi-Dimensional Data Recovery/READEME.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factorization strategies for third-order tensors/Factorization strategies for third-order tensors.md"
+                "file": "Low-Rank Tensor Function Representation for Multi-Dimensional Data Recovery/READEME.md"
               }
             }
           }
@@ -146,13 +146,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "359a08bd025557b3",
+  "active": "aa55a73fbaae9cbd",
   "lastOpenFiles": [
-    "Factorization strategies for third-order tensors/Factorization strategies for third-order tensors.pdf",
+    "Low-Rank Tensor Function Representation for Multi-Dimensional Data Recovery/2023_PAMI_Low-Rank Tensor Function Representation for Multi-Dimensional Data Recovery.pdf",
+    "Low-Rank Tensor Function Representation for Multi-Dimensional Data Recovery/READEME.md",
+    "Tensor Completion for Estimating Missing Values in Visual Data/笔记.md",
+    "Low-Rank Tensor Function Representation for Multi-Dimensional Data Recovery",
     "Factorization strategies for third-order tensors/Factorization strategies for third-order tensors.md",
+    "Factorization strategies for third-order tensors/Factorization strategies for third-order tensors.pdf",
     "Framelet Representation of Tensor Nuclear Norm for Third-Order Tensor Completion/Framelet Representation of Tensor Nuclear Norm for Third-Order Tensor Completion.pdf",
     "README.md",
-    "Tensor Completion for Estimating Missing Values in Visual Data/笔记.md",
     "Low-rank tensor completion via smooth matrix factorization/Low-rank tensor completion via smooth matrix factorization.pdf",
     "Low-rank tensor completion via smooth matrix factorization/笔记.md",
     "1704782553942.png",
