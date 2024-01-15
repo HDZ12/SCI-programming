@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Low-Rank Tensor Function Representation for Multi-Dimensional Data Recovery/READEME.md",
+                "file": "Low-rank tensor completion via smooth matrix factorization/笔记.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4e0c0d9184a6d837",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Low-Rank Tensor Function Representation for Multi-Dimensional Data Recovery/READEME.md",
+                "file": "Low-rank tensor completion via smooth matrix factorization/笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Low-Rank Tensor Function Representation for Multi-Dimensional Data Recovery/READEME.md",
+                "file": "Low-rank tensor completion via smooth matrix factorization/笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Low-Rank Tensor Function Representation for Multi-Dimensional Data Recovery/READEME.md"
+                "file": "Low-rank tensor completion via smooth matrix factorization/笔记.md"
               }
             }
           }
@@ -146,10 +147,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "aa55a73fbaae9cbd",
+  "active": "359a08bd025557b3",
   "lastOpenFiles": [
-    "Low-Rank Tensor Function Representation for Multi-Dimensional Data Recovery/2023_PAMI_Low-Rank Tensor Function Representation for Multi-Dimensional Data Recovery.pdf",
     "Low-Rank Tensor Function Representation for Multi-Dimensional Data Recovery/READEME.md",
+    "Low-Rank Tensor Function Representation for Multi-Dimensional Data Recovery/2023_PAMI_Low-Rank Tensor Function Representation for Multi-Dimensional Data Recovery.pdf",
     "Tensor Completion for Estimating Missing Values in Visual Data/笔记.md",
     "Low-Rank Tensor Function Representation for Multi-Dimensional Data Recovery",
     "Factorization strategies for third-order tensors/Factorization strategies for third-order tensors.md",
